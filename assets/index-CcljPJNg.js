@@ -14971,7 +14971,7 @@ const c4 = [
 							onClick: z,
 							className:
 								"mt-4 w-full bg-green-600 hover:bg-green-700 text-white font-medium py-3 rounded-xl transition-colors",
-							children: v ? "Submitting..." : "Submit",
+							children: v ? "Importing..." : "Import",
 						}),
 					],
 				}),
